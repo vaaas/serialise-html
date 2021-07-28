@@ -1,0 +1,15 @@
+{
+	'name': 'serialise-html',
+	'version': '1.0.0',
+	'description': 'javascript array to html serialiser',
+	'main': 'serialise-html.js',
+	'keywords': [
+		'html', 'serialisation'
+	],
+	'author': 'vas',
+	'license': 'AGPL-3.0',
+	'repository': {
+		'type': 'git',
+		'url': 'git://github.com/vaaas/serialise-html.git'
+	}
+}
